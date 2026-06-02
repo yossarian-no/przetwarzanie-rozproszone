@@ -2,10 +2,10 @@
 
 ## Grupa projektowa i temat projektu
 
-Vasil Kusmartsev 156202 
-Mateusz Kaźmierczak 160162 
-Przedmiot: Przetwarzanie Rozproszone, laboratoria, 6 semestr
-Temat: Stowarzyszenie Umarłych Poetów
+Vasil Kusmartsev 156202  
+Mateusz Kaźmierczak 160162  
+Przedmiot: Przetwarzanie Rozproszone, laboratoria, 6 semestr  
+Temat: Stowarzyszenie Umarłych Poetów  
 
 Projekt implementuje rozproszony algorytm wzajemnego wykluczania dla grup procesów, oparty na algorytmie Ricarta-Agrawali. Program symuluje grupę poetów, którzy cyklicznie zbierają się w kółka poetyckie w celu wspólnej libacji.
 
