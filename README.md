@@ -9,7 +9,7 @@ Temat: Stowarzyszenie Umarłych Poetów
 
 Projekt implementuje rozproszony algorytm wzajemnego wykluczania dla grup procesów, oparty na algorytmie Ricarta-Agrawali. Program symuluje grupę poetów, którzy cyklicznie zbierają się w kółka poetyckie w celu wspólnej libacji.
 
-## Stowarzyszenie umarłych poetów
+## Stowarzyszenie umarłych poetów - opis tematu
 
 W pewnym mieście uniwersyteckim grupa młodych ludzi wpadła na pomysł, by zwiększyć swoje zdolności
 twórcze konsumpcją dużej ilości alkoholu. W tym celu tworzą kółka poetyckie, po czym każdy przynosi
