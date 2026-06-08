@@ -79,7 +79,7 @@ sudo apt install build-essential openmpi-bin openmpi-doc libopenmpi-dev
 
 ```bash
 # Kompilacja
-mpicc -o poeci main.c -lpthread
+mpicc -o poeci poeci.c -lpthread
 
 # Uruchomienie (P procesów, kółka po K osób)
 mpiexec -n 4 ./poeci 3
